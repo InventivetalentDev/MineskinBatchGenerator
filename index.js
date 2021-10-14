@@ -6,7 +6,7 @@ const FormData = require("form-data");
 const DIR = "../Skins";
 const OUT = "../skin-list.csv";
 const DELAY = 5;
-const KEY = "4276ac263bef9e2db54f14a7c5f9b1bb0d431b89fffbefc4b5dbb05d061ce7f0";
+const KEY = "";
 
 function cycle() {
     try {
